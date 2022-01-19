@@ -1,0 +1,2 @@
+# Findmine
+for python study
